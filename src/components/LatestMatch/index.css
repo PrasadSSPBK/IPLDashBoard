@@ -1,0 +1,55 @@
+.LatestMatchMainContainer {
+  background-color: #1e293b;
+  margin: 20px;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid;
+  width: 80%;
+  border-radius: 10px;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.second {
+  margin: 5px;
+}
+.third {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  text-align: end;
+}
+
+.head {
+  font-size: 25px;
+  font-weight: 800;
+  font-family: 'Bree serif';
+  color: #ffffff;
+}
+.para {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Bree serif';
+  color: #ffffff;
+}
+
+.para1 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Bree serif';
+  color: #ffffff;
+}
+.img {
+  height: 150px;
+  width: 150px;
+  padding-top: 20px;
+}
+.para2 {
+  font-size: 17px;
+  font-weight: 400;
+  font-family: 'Bree serif';
+  color: #ffffff;
+}

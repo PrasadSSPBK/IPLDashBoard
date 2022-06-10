@@ -1,0 +1,27 @@
+.listItemContainer {
+  background-color: transparent;
+  list-style-type: none;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  height: 150px;
+  width: 400px;
+}
+
+.teamCardContainer {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
+.teamImageUrl {
+  height: 100px;
+  width: 100px;
+  padding-right: 10px;
+}
+.teamImageHead {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
